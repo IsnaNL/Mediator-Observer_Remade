@@ -1,0 +1,1 @@
+Mediator&Observer_Remade
